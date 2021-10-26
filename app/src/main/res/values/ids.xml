@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="logo_keluar" type="id" />
+    <item name="nominal_cf" type="id" />
+    <item name="ket_cf" type="id" />
+    <item name="tgl_cf" type="id" />
+    <item name="logo_cf" type="id" />
+    <item name="tgl_keluar" type="id" />
+    <item name="nominal_keluar" type="id" />
+    <item name="keterangan_keluar" type="id" />
+    <item name="penyimpanan_keluar" type="id" />
+    <item name="logo_masuk" type="id" />
+    <item name="tgl_masuk" type="id" />
+    <item name="nominal_masuk" type="id" />
+    <item name="keterangan_masuk" type="id" />
+    <item name="penyimpanan_masuk" type="id" />
+</resources>
